@@ -57,6 +57,11 @@ html {
 }
 
 .banner-content {
+  padding-top: 120px;
+  background-image: url("../images/two-leaves.svg");
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-size: 110px;
 
 }
 
